@@ -30,7 +30,7 @@ So my final results was like the picture below
 
 ![image](https://user-images.githubusercontent.com/51972234/129182211-11bf1587-962c-4718-9238-24555bb314ea.png)
 
-In case of a curved letter I created a gravity keypoint (with is invisible). A gravity point makes a strait line between to points to a curved line. To define a key gravity point just you must put at the 3rd number -1.
+In case of a curved letter I created a gravity keypoint (witch is invisible). A gravity point makes a strait line between to points to a curved line. To define a key gravity point just you must put at the 3rd number -1.
 For example, the S letter
 
 ![image](https://user-images.githubusercontent.com/51972234/129215707-c8fb4322-9fe7-43c9-b718-1d91b41e812a.png)
