@@ -22,7 +22,7 @@ User experience
 - If the user fails to draw a stroke, this stroke is reset and a message is shown “Please try again”. The failure should be detected immediately, not waiting for the user to release their finger.
 
 The input of the code for each letter was a list of a Vector4 which the fist 2 number was the keypoint coordinates and the 4th number was about the number of the stroke that the key point belongs.
-Example for letter A 
+Example for letter A (Hierarchy ->Canvas->DrawGameObject->Inspector->Main )
 
 ![image](https://user-images.githubusercontent.com/51972234/129213594-27ef92ba-5a30-4182-8df3-618d9dbf2374.png)
 
